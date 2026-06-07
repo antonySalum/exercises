@@ -7,7 +7,7 @@ import java.util.Scanner;
  */
 public class MoreStringMtd
 {
-    public static void main(String[] arg){
+    public static void main(String[] args){
     Scanner keyboard = new Scanner(System.in);
     
     // Replace
